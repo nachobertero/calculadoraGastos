@@ -1,4 +1,4 @@
-# Calculadora de Gastos
+# CalculadoradeGastos
 
 Este proyecto es una aplicación para la gestión de un presupuesto. Los usuarios pueden ingresar su presupuesto inicial y añadir gastos, los cuales se descontarán del presupuesto restante. La aplicación permite visualizar el presupuesto total, el presupuesto restante y administrar los gastos agregados.
 
